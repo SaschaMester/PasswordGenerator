@@ -14,6 +14,7 @@ read -s STRING
 echo -en "\n"
 echo -n "Confirm: "
 read -s STRING_CONFIRM
+echo -en "\n"
 if [ $STRING != $STRING_CONFIRM ]; then
         echo "Confirm did not match. Program ending."
         exit 1;
