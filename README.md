@@ -32,6 +32,6 @@ CC0](http://creativecommons.org/publicdomain/zero/1.0/) to the script.
 The origin work is published from the United States.
 
 The improvement (the string, e.g., the Password won't be shown anymore 
-just by typing) was made by Sascha Mester on November 11th of 2016.
+just by typing) was made by Sascha Mester on November 3rd of 2016.
 
 
